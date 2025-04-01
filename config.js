@@ -37,7 +37,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小欣": "./imgs/IMG20240406081043.jpg",
+        "心爱的小欣": "imgs/IMG20240406081043.jpg",
         
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
