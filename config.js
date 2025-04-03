@@ -38,12 +38,12 @@ var config = {
      */
     imgs: {
         "心爱的小欣": "imgs/IMG20240406081043.jpg",
-        
+        "两年前，我们还在拉拉扯扯": "imgs/Amay.jpg",
      //   "今天是你的生日": "imgs/大一生日.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "tes",
+        turn_on: "test",
         play: "音乐",
         bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
