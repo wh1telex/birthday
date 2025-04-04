@@ -37,10 +37,11 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小欣": "imgs/IMG20240406081043.jpg",
+        "心爱的小欣": "imgs/lunar.jpg",
         "今天是你的生日": "imgs/before.jpg",
         "两年前，我们还在拉拉扯扯": "imgs/Amay.jpg",
-        "直到后来":"imgs/river.jpg",
+        "那时的我，真以为你只是把我当成朋友": "imgs/road.jpg",
+        "直到后来": "imgs/river.jpg",
         "相册里的你越来越多": "imgs/pic.jpg",
         "才发现我满眼是你": "imgs/eyes.jpg",
      //   "今天是你的生日": "imgs/大一生日.jpg",
